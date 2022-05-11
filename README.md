@@ -1,6 +1,6 @@
 # dicee_flutter
 
-A new Flutter project.
+A new Flutter project. Building Apps with State - Dice App
 
 ## Getting Started
 
